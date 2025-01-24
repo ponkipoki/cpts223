@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    cout << ("Testing") << endl;
+    printTest();
     return 0;
 }
