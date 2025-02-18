@@ -1,7 +1,8 @@
-#include "matchingGame.hpp"
+#include "matchingGame.h"
+#include <iostream>
 
 int main(void)
 {
-    printTest();
+    mainMenu();
     return 0;
 }
